@@ -23,9 +23,9 @@ Together, we will shape the future, forging a path towards a harmonious coexiste
 
 - 👋 Hi, I’m @iThoughtt robust system structure used for quantum systems
 - 👀 I’m interested in ...collaboration for FAIR use of AI
-- 🌱 I’m currently learning ...coding
+- 🌱 I’m currently learning ...how to Script, Code
 - 💞️ I’m looking to collaborate on ...AI development safely
-- 📫 How to reach me ...email me griffen_03@yahoo.com
+- 📫 How to reach me ...email me
 
 <!---
 iThoughtt/iThoughtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
